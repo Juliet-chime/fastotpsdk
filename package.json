@@ -1,5 +1,5 @@
 {
-  "name": "fastoptsdk",
+  "name": "fastotpsdk",
   "version": "1.0.3",
   "description": "Sdk for secured fast OTP",
   "main": "src/index.js",
