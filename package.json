@@ -7,8 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chime Juliet Somtochukwu",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Juliet-chime/fastotpsdk"
+  },
+  "homepage": "https://github.com/Juliet-chime/fastotpsdk",
   "dependencies": {
     "axios": "^1.7.2",
     "node-cache": "^5.1.2"
