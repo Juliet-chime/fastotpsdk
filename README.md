@@ -62,7 +62,9 @@ const getOtp = fastOtpClient.getOtp.getOtp({ id });
 
 ## Contribution Guidelines
 
-Contributions are welcome and encouraged. Please read [here](/CONTRIBUTING.md)
+Contributions are welcome and encouraged. 
+To contribute, fork this repo and raise a PR to the master branch, I will test and aprove if all is well.
+Please read [here](https://github.com/Juliet-chime/fastotpsdk/blob/main/CONTRIBUTING.md)
 
 © [Chime Juliet Somtochukwu]()
 
